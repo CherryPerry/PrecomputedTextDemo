@@ -1,7 +1,7 @@
 ## PrecomputedTextCompat demo
 
-[![Build Status](https://travis-ci.com/CherryPerry/PrecomputedTextDemo.svg?branch=master)](https://travis-ci.com/CherryPerry/VideoCrop)
-[![Version](https://img.shields.io/github/release/PrecomputedTextDemo/VideoCrop.svg)](https://github.com/CherryPerry/VideoCrop/releases)
+[![Build Status](https://travis-ci.com/CherryPerry/PrecomputedTextDemo.svg?branch=master)](https://travis-ci.com/CherryPerry/PrecomputedTextDemo)
+[![Version](https://img.shields.io/github/release/PrecomputedTextDemo/VideoCrop.svg)](https://github.com/CherryPerry/PrecomputedTextDemo/releases)
 
 This project is demonstration of
 [PrecomputedTextCompat](https://developer.android.com/reference/androidx/core/text/PrecomputedTextCompat)
